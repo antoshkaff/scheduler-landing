@@ -117,7 +117,7 @@ header{
 }
 header img{
     width: 186px;
-    height: 58px;
+    height: auto;
 }
 header ul{
     display: flex;

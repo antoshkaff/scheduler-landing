@@ -103,10 +103,13 @@
         flex-direction: column;
     }
     nav.active{
-        right: 0%;
+        right: 0;
     }
     .burger{
         display: flex;
+    }
+    .login-btn{
+        margin-inline: auto 27px;
     }
 
     body.lock{
